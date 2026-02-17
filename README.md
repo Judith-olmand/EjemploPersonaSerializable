@@ -469,6 +469,6 @@ La serialización de Java es una herramienta poderosa para persistir objetos, pe
 
 Proyecto educativo para aprendizaje de serialización de objetos en Java.
 
-## 👤 Autor
+## 👤 Autor --> Judith Olmedo Andrés
 
 Ejemplo práctico de serialización y deserialización de objetos en Java.
